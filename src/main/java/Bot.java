@@ -11,9 +11,9 @@ import java.util.List;
 public class Bot extends TelegramLongPollingBot {
     long chat_id;
     @Override
-    public String getBotUsername() {return "Testfood228_bot";}
+    public String getBotUsername() {return "name";}
     @Override
-    public String getBotToken() {return "5717957268:AAHbuD697IUSPIwpMXZnm4VGahqweMFHgVo";}
+    public String getBotToken() {return "token";}
 
     public void onUpdateReceived(Update update) {
         if (update.hasMessage() && update.getMessage().hasText()) {
