@@ -21,11 +21,11 @@ public class Bot2 extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Testfood228_bot";
+        return "name";
     }
     @Override
     public String getBotToken() {
-        return "5717957268:AAHbuD697IUSPIwpMXZnm4VGahqweMFHgVo";
+        return "token";
     }
     @Override
     public void onUpdateReceived(Update update) {
