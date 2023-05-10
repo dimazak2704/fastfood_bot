@@ -30,7 +30,7 @@ public class pars {
 
     public void jdbc() {
         try {
-            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/food", "root", "passWord2704");
+            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/food", "account name", "password");
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery("select * from food.vn");
 
