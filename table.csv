@@ -1,0 +1,13 @@
+id,username,product,document,element,name1,name2,price1,price2
+2,La-ua-Vinnytsya,pizza,https://la.ua/vinnytsya/,"col-md-6 col-lg-4","productTitle h5",NULL,productPrice,NULL
+3,Prontop-pizza,pizza,https://prontopizza.ua/vinnytsia/product-category/pizza/,"col-12 col-lg-4 col-xl-3 col-sm-6 product_wrapp",product_title,NULL,price,NULL
+4,sushiwok,sushi,https://sushiwok.ua/vin/menu/sety/,"card-wrapper--grid  ","card__name js-content",NULL,itemtype,https://schema.org/priceCurrency
+5,sushiyama,sushi,https://yama.vn.ua/shop/sushi-ta-roli/filadelfiya,"col-md-4 product-single aos-init aos-animate",product-single__title__link,NULL,product-single__title__price,NULL
+8,"Samete pizza",pizza,https://samete.in.ua/pizza,"col-sm-6 col-md-4 col-lg-3 isotope-item",product-title,NULL,product-price,NULL
+9,"Igogo pizza",pizza,https://igogo.vn.ua/ua/pica/,"col-md-4 col-sm-6 col-xs-12",product-item-name,NULL,product-item-price,NULL
+10,"Igogo burgers",burgers,https://igogo.vn.ua/ua/burgeri/,"col-md-4 col-sm-6 col-xs-12",product-item-name,NULL,product-item-price,NULL
+11,"Igogo sushi",sushi,https://igogo.vn.ua/ua/sushi-ta-rolli/,"col-md-4 col-sm-6 col-xs-12",product-item-name,NULL,product-item-price,NULL
+12,"Smilefood pizza",pizza,https://smilefood.vn.ua/products/pizza,catalogue-products__item,title,NULL,product-sum,NULL
+13,"Smilefood rolls",sushi,https://smilefood.vn.ua/products/rolly,catalogue-products__item,title,NULL,product-sum,NULL
+14,"Smilefood sushi",sushi,https://smilefood.vn.ua/products/sushy,catalogue-products__item,title,NULL,product-sum,NULL
+15,"Smilefood sety",sushi,https://smilefood.vn.ua/products/sety,catalogue-products__item,title,NULL,product-sum,NULL
